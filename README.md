@@ -1,7 +1,6 @@
 <html>
   <head>
     <title>Curso de Git y Docker</title>
-    <metacharset="utf-8"/>
     <style>
       *
       {
